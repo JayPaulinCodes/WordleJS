@@ -1,0 +1,3 @@
+WORD LISTS:
+Standard (Contains Standard Issue Wordle Words - 2,315 Words) [EASIEST]
+Full Bank (Contains Every 5 Letter Word Recognized - 12,972 Words) [HARDEST]
